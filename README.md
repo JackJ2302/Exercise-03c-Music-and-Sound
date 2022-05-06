@@ -124,6 +124,4 @@ Built using Godot 3.4.2
 Shaders
 
 ## Created by 
-
-Jason Francis
-```
+Jack Joseph
